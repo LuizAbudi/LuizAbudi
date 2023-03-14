@@ -1,8 +1,11 @@
 ### Olá, sou Luiz Gustavo 👋
 
 - 💬 Sou estudante do curso de Ciências da Computação da UTFPR-Campo Mourão
-- 📓 Durante a faculdade estou estudando C 
-- 💡 No momento estudando Front-End (HTML5, CSS3, JavaScript) e Back-End (Python)
+- 📓 Durante a faculdade estou estudando C. 
+- 💡 No momento estudando 
+  - Front-End: (HTML5, CSS3, JavaScript)   <img align="center" alt="Abudi-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">  <img align="center" alt="Abudi-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">  <img align="center" alt="Abudi-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  
+  - Back-End (Python) <img align="center" alt="Abudi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 
 <div align="center">
   <a href= "https://github.com/LuizAbudi">
@@ -11,7 +14,7 @@
   
 </div>
   
- <div style="display: inline_block">
+ <div style="display: inline_block" align="center">
   <br>
   <img align="center" alt="Abudi-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Abudi-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
