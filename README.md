@@ -8,7 +8,7 @@
   - Back-End (Python) <img align="center" alt="Abudi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 
 <div align="center">
-  <a href= "https://github.com/LuizAbudi">
+  <a href= "https://github.com/LuizAbudi ">
   <img src="https://github-readme-stats.vercel.app/api?username=LuizAbudi&count_private=true&show_icons=true&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAbudi&layout=compact&theme=dark"/>
   
